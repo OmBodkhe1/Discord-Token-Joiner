@@ -3,7 +3,7 @@ Made by **OmBodkhe** for fun!!
 <br>
 ## Preview
 <br>
- <img src="https://cdn.discordapp.com/attachments/867383475459457044/989074569677668402/joiner.gif"/>
+ <img src="/preview.gif"/>
 
 <br>
 
