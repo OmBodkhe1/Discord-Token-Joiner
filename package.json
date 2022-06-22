@@ -1,0 +1,34 @@
+{
+  "name": "discord-token-joiner",
+  "version": "1.0.0",
+  "description": "Simple discord token joiner with timeout! Made with ❤️ by Oᴍ !!!#9649",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.7",
+    "prompt-sync": "^4.2.0",
+    "ombodkhe": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmBodkhe1/Discord-Token-Joiner.git"
+  },
+  "keywords": [
+    "token",
+    "token-joiner",
+    "best-token-joiner",
+    "discord-token-joiner",
+    "discord"
+  ],
+  "author": "Om Bodkhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmBodkhe1/Discord-Token-Joiner/issues"
+  },
+  "homepage": "https://github.com/OmBodkhe1/Discord-Token-Joiner#readme"
+}
