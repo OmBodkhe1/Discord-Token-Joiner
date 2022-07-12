@@ -19,8 +19,8 @@ AntiCaptcha - https://anti-captcha.com/
 }
 ```
 
-* run **install.bat** to install all packages!
-* run **start.bat** to start token joiner!
+* run **npm i** in cmd prompt to install all packages!
+* run **node index.js** in cmd prompt to start token joiner!
 * Enjoy!!
 
 <br>
